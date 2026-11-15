@@ -1,5 +1,5 @@
 // CONFIGURATION: Replace the placeholder below with your actual contact email.
-const CONTACT_EMAIL = 'hello@example.com';
+const CONTACT_EMAIL = 'coachcarolinefh@proton.me';
 
 const menuButton = document.querySelector('.menu-toggle');
 const navigation = document.querySelector('.nav-links');
